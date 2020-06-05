@@ -1,0 +1,11 @@
+
+  .from{
+    position: relative;
+    width : 50%;
+    height : 200px;
+    /* line-height:200px; */
+    padding:10 5px;
+    text-align: left;
+    vertical-align: auto;    
+    overflow-y: scroll;
+    }
